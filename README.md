@@ -53,5 +53,3 @@ Several visualizations are provided to enhance understanding:
 3. Run the provided Python script.
 
 Feel free to experiment with the code, modify hyperparameters, or apply the algorithm to your datasets. Explore the impact of removing specific data points on the model's performance.
-
-Happy Coding!
